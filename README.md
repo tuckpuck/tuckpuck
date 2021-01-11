@@ -1,6 +1,8 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/tuckpuck?template=classic&pagespeed=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=false&stars.limit=4&config.timezone=America%2FDenver)
+
 
 <!--
+### Hi there 👋
 **tuckpuck/tuckpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
