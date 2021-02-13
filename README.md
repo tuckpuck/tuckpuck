@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/tuckpuck?template=classic&stars=1&stars.limit=4&config.timezone=America%2FDenver)
+![Metrics](https://metrics.lecoq.io/tuckpuck?template=classic&config.timezone=America%2FDenver)
 
 
 <!--
