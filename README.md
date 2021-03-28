@@ -1,6 +1,6 @@
 ## Hi there I'm Tucker
 
-I'm a front-end web developer and remote freelancer. On my Github you will find personal projects and experiments I've been working on. 
+I'm a front-end web developer and remote freelancer. Here on Github you will find personal projects I've been working on. 
 
 ### Skills
 **Front End** ![React](https://img.shields.io/badge/-React-111?&logo=React) ![Gatsby](https://img.shields.io/badge/-Gatsby-111?&logo=Gatsby) ![WordPress](https://img.shields.io/badge/-WordPress-111?&logo=WordPress) ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript) ![JAMstack](https://img.shields.io/badge/-jamstack-111?&logo=jamstack) ![Responsive Development](https://img.shields.io/badge/-responsive%20development-111)  
