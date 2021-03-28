@@ -2,13 +2,21 @@
 
 I'm a front-end web developer and remote freelancer. On my Github you will find personal projects and experiments I've been working on. On an average day you will find me building amazing websites with HTML, CSS, JS, WordPress, React and Gatsby. 
 
-### 📡 Find me on the web
+### Skills
+**Front End** React.js, Gatsby, WordPress, JavaScript (ES6, ES7), JAMStack, Responsive Development
+**Web Design** HTML, CSS, SASS, Bootstrap, Tailwind, Figma, UI/UX
+**Backend** Python, Flask, PHP, MySQL, GraphQL, cPanel
+**Developer Tools** Git/GitHub, Visual Studio Code, Terminal, Yarn, NPM, Webpack, Netlify
+**Collaboration** Zoom, Skype, Slack, Trello, Basecamp
+**Other** Agile Methodologies, Speed Optimization, SEO, Analytics, Accessibility, Writing
+
+### Find me on the web
 [Website/blog](https://www.tuckertriggs.com)  
 [LinkedIn](https://www.linkedin.com/in/tuckertriggs/)  
 [Dev.to](https://dev.to/tuckertriggs)  
 [Twitter](https://twitter.com/tuckertriggs)  
 
-### 📫 Email me
+### Email me
 tucker@tuckertriggs.com
 
 ![Tuckers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuckpuck&count_private=true)
