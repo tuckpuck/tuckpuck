@@ -11,10 +11,11 @@ I'm a front-end web developer and remote freelancer. On my Github you will find 
 ### 📫 Email me
 tucker@tuckertriggs.com
 
+![Tuckers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuckpuck&count_private=true)
 
 
 
-![Metrics](https://metrics.lecoq.io/tuckpuck?template=classic&config.timezone=America%2FDenver)
+
 
 <!--
 ### Hi there 👋
@@ -30,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Metrics](https://metrics.lecoq.io/tuckpuck?template=classic&config.timezone=America%2FDenver)
 -->
