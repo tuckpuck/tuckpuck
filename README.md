@@ -12,6 +12,7 @@ I'm a front-end web developer and remote freelancer. On my Github you will find 
 tucker@tuckertriggs.com
 
 ![Tuckers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuckpuck&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
