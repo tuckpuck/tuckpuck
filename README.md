@@ -2,6 +2,8 @@
 
 I'm a front-end web developer and remote freelancer. Here on Github you will find personal projects I've been working on. 
 
+I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me with work inquiries.
+
 ### Skills
 **Front End** ![React](https://img.shields.io/badge/-React-111?&logo=React) ![Gatsby](https://img.shields.io/badge/-Gatsby-111?&logo=Gatsby) ![WordPress](https://img.shields.io/badge/-WordPress-111?&logo=WordPress) ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript) ![JAMstack](https://img.shields.io/badge/-jamstack-111?&logo=jamstack) ![Responsive Development](https://img.shields.io/badge/-responsive%20development-111)  
 **Web Design** ![HTML](https://img.shields.io/badge/-html5-111?&logo=html5) ![CSS](https://img.shields.io/badge/-css-111?&logo=css3) ![SASS](https://img.shields.io/badge/-sass-111?&logo=sass) ![Figma](https://img.shields.io/badge/-figma-111?&logo=figma) ![Bootstrap](https://img.shields.io/badge/-bootstrap-111?&logo=bootstrap]) ![Tailwind](https://img.shields.io/badge/-tailwind-111) ![UI/UX](https://img.shields.io/badge/-ui/ux-111)  
