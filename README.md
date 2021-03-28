@@ -3,11 +3,11 @@
 I'm a front-end web developer and remote freelancer. On my Github you will find personal projects and experiments I've been working on. On an average day you will find me building amazing websites with HTML, CSS, JS, WordPress, React and Gatsby. 
 
 ### Skills
-**Front End** React.js, Gatsby, WordPress, JavaScript (ES6, ES7), JAMStack, Responsive Development
-**Web Design** HTML, CSS, SASS, Bootstrap, Tailwind, Figma, UI/UX
-**Backend** Python, Flask, PHP, MySQL, GraphQL, cPanel
-**Developer Tools** Git/GitHub, Visual Studio Code, Terminal, Yarn, NPM, Webpack, Netlify
-**Collaboration** Zoom, Skype, Slack, Trello, Basecamp
+**Front End** React.js, Gatsby, WordPress, JavaScript (ES6, ES7), JAMStack, Responsive Development  
+**Web Design** HTML, CSS, SASS, Bootstrap, Tailwind, Figma, UI/UX  
+**Backend** Python, Flask, PHP, MySQL, GraphQL, cPanel  
+**Developer Tools** Git/GitHub, Visual Studio Code, Terminal, Yarn, NPM, Webpack, Netlify  
+**Collaboration** Zoom, Skype, Slack, Trello, Basecamp  
 **Other** Agile Methodologies, Speed Optimization, SEO, Analytics, Accessibility, Writing
 
 ### Find me on the web
