@@ -3,7 +3,7 @@
 I'm a front-end web developer and remote freelancer. On my Github you will find personal projects and experiments I've been working on. 
 
 ### Skills
-**Front End** React.js, Gatsby, WordPress, JavaScript (ES6, ES7), JAMStack, Responsive Development  
+**Front End** ![React](https://img.shields.io/badge/-React-000?&logo=React), Gatsby, WordPress, JavaScript (ES6, ES7), JAMStack, Responsive Development  
 **Web Design** HTML, CSS, SASS, Bootstrap, Tailwind, Figma, UI/UX  
 **Backend** Python, Flask, PHP, MySQL, GraphQL, cPanel  
 **Developer Tools** Git/GitHub, Visual Studio Code, Terminal, Yarn, NPM, Webpack, Netlify  
