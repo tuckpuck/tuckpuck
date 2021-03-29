@@ -2,8 +2,8 @@
 
 I'm a front-end web developer and remote freelancer. Here is where you will find personal projects, open source contributions, and code experiments. 
 
-I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me with work inquiries:
-tucker@tuckertriggs.com
+I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me with work inquiries:  
+[Email me at tucker@tuckertriggs.com](mailto:tucker@tuckertriggs.com)  
 [LinkedIn](https://www.linkedin.com/in/tuckertriggs/)  
 [Website/blog](https://www.tuckertriggs.com)  
 [Dev.to](https://dev.to/tuckertriggs)  
