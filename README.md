@@ -18,8 +18,9 @@ I am currently seeking freelance clients, agency partnerships, and contract work
 **Collaboration** ![Zoom](https://img.shields.io/badge/-zoom-111?&logo=zoom) ![Slack](https://img.shields.io/badge/-slack-111?&logo=slack) ![Skype](https://img.shields.io/badge/-skype-111?&logo=skype) ![Trello](https://img.shields.io/badge/-trello-111?&logo=trello) ![Basecamp](https://img.shields.io/badge/-basecamp-111?&logo=basecamp)  
 **Other** ![Haskell](https://img.shields.io/badge/-haskell-111?&logo=haskell) ![SEO](https://img.shields.io/badge/-seo-111) ![Website Analytics](https://img.shields.io/badge/-analytics-111) ![Accessibility](https://img.shields.io/badge/-accessibility-111) ![Agile](https://img.shields.io/badge/-agile-111) ![Writing](https://img.shields.io/badge/-writing-111)
 
-![Tuckers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuckpuck&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuckpuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=tuckpuck&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tuckpuck&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuckpuck&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
