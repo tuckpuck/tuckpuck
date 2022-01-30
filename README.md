@@ -9,6 +9,16 @@ I am currently seeking freelance clients, agency partnerships, and contract work
 [Dev.to](https://dev.to/tuckertriggs)  
 [Twitter](https://twitter.com/tuckertriggs)  
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@protonmail.com)
+[![Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuckertriggs)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tuckertriggs)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10277376)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tuckertriggs)
+[![GitHub followers](https://img.shields.io/github/followers/tuckpuck?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/tuckpuck)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/tuckertriggs)
+
 ### Skills
 **Front End** ![React](https://img.shields.io/badge/-React-111?&logo=React) ![Gatsby](https://img.shields.io/badge/-Gatsby-111?&logo=Gatsby) ![WordPress](https://img.shields.io/badge/-WordPress-111?&logo=WordPress) ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript) ![JAMstack](https://img.shields.io/badge/-jamstack-111?&logo=jamstack) ![Responsive Development](https://img.shields.io/badge/-responsive%20development-111)  
 **Web Design** ![HTML](https://img.shields.io/badge/-html5-111?&logo=html5) ![CSS](https://img.shields.io/badge/-css-111?&logo=css3) ![SASS](https://img.shields.io/badge/-sass-111?&logo=sass) ![Figma](https://img.shields.io/badge/-figma-111?&logo=figma) ![Bootstrap](https://img.shields.io/badge/-bootstrap-111?&logo=bootstrap]) ![Tailwind](https://img.shields.io/badge/-tailwind-111) ![UI/UX](https://img.shields.io/badge/-ui/ux-111)  
