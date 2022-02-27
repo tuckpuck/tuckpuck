@@ -1,6 +1,6 @@
-## Hey I'm Tucker
+## Hey, I'm Tucker
 
-I'm a front-end web developer, Cardano developer, and remote freelancer. Here is where you will find personal projects, open source contributions, and code experiments. 
+I'm a front-end web developer, Cardano developer, and remote freelancer. Here you will find personal projects, open source contributions, and code experiments. 
 
 I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me:  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
