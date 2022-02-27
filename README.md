@@ -1,8 +1,8 @@
 ## Hey I'm Tucker
 
-I'm a front-end web developer and remote freelancer. Here is where you will find personal projects, open source contributions, and code experiments. 
+I'm a front-end web developer, Cardano developer, and remote freelancer. Here is where you will find personal projects, open source contributions, and code experiments. 
 
-I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me with work inquiries:  
+I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me:  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@protonmail.com)
 [![Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
@@ -22,12 +22,13 @@ I am currently seeking freelance clients, agency partnerships, and contract work
 **Collaboration** ![Zoom](https://img.shields.io/badge/-zoom-111?&logo=zoom) ![Slack](https://img.shields.io/badge/-slack-111?&logo=slack) ![Skype](https://img.shields.io/badge/-skype-111?&logo=skype) ![Trello](https://img.shields.io/badge/-trello-111?&logo=trello) ![Basecamp](https://img.shields.io/badge/-basecamp-111?&logo=basecamp)  
 **Other** ![Haskell](https://img.shields.io/badge/-haskell-111?&logo=haskell) ![Plutus](https://img.shields.io/badge/-plutus-111) ![SEO](https://img.shields.io/badge/-seo-111) ![Website Analytics](https://img.shields.io/badge/-analytics-111) ![Accessibility](https://img.shields.io/badge/-accessibility-111) ![Agile](https://img.shields.io/badge/-agile-111) ![Writing](https://img.shields.io/badge/-writing-111)
 
-![](https://github-readme-stats.vercel.app/api?username=tuckpuck&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuckpuck&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuckpuck&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuckpuck&theme=tokyonight)
 
 <!--
+![](https://github-readme-stats.vercel.app/api?username=tuckpuck&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tuckpuck&theme=tokyonight&hide_border=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuckpuck&theme=tokyonight)
+
 ### Hi there 👋
 **tuckpuck/tuckpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
