@@ -3,9 +3,9 @@
 I'm a front-end web developer, Cardano developer, and remote freelancer. Here you will find personal projects, open source contributions, and code experiments. 
 
 I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me:  
+[![Portfolio Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@protonmail.com)
-[![Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuckertriggs)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tuckertriggs)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tuckertriggs)
