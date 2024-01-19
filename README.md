@@ -4,13 +4,10 @@ I'm a front-end web developer, Cardano developer, and remote freelancer. Here yo
 
 I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me:  
 [![Portfolio Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@pm.me)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuckertriggs)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tuckertriggs)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tuckertriggs)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10277376)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/tuckertriggs)
 [![GitHub followers](https://img.shields.io/github/followers/tuckpuck?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/tuckpuck)
 
 
