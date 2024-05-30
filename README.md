@@ -3,13 +3,10 @@
 I'm a front-end web developer, Cardano developer, and remote freelancer. Here you will find personal projects, open source contributions, and code experiments. 
 
 I am currently seeking freelance clients, agency partnerships, and contract work. Feel free to contact me:  
-[![Portfolio Website](https://img.shields.io/badge/website-000000?logoColor=white)](https://www.tuckertriggs.com)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@pm.me)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tucker@tuckertriggs.com)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?logoColor=white)](https://www.tuckertriggs.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white)](mailto:tuckertriggs@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuckertriggs)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tuckertriggs)
-[![GitHub followers](https://img.shields.io/github/followers/tuckpuck?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/tuckpuck)
-
 
 ### Skills
 **Front End** ![React](https://img.shields.io/badge/-React-111?&logo=React) ![WordPress](https://img.shields.io/badge/-WordPress-111?&logo=WordPress) ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript) ![Responsive Development](https://img.shields.io/badge/-responsive%20development-111)  
